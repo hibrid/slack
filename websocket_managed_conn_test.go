@@ -10,8 +10,8 @@ import (
 	websocket "github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/slack-go/slack"
-	"github.com/slack-go/slack/slacktest"
+	"github.com/hibrid/slack"
+	"github.com/hibrid/slack/slacktest"
 )
 
 const (
